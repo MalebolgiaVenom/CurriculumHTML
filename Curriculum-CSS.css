@@ -1,0 +1,19 @@
+.background-nav:hover{
+background-color:red;
+}
+.background-nav{
+    background-color:pink;
+}
+.background-body{
+    background-color: pink;
+}
+.background-footer{
+    background-color: gold;
+}
+img:hover{
+    border: 3px dashed blue !important;
+}
+.imgcentro{
+    display: flex;
+    justify-content:center;
+}
